@@ -206,7 +206,6 @@ label {
 
 /* ===== LAYOUT STYLES ====== */
 form {
-  box-sizing: border-box;
   background-color: gray;
   padding: 6rem 4rem; 
   width: 80%;
@@ -254,8 +253,6 @@ label {
   cursor: pointer;
 }
 
-
-
 /* ===== STATE STYLES ======= */
 
 @media screen and (min-width: 580px)  { 
@@ -271,9 +268,9 @@ label {
     width: 100%; 
     height: 100%;
   }
- 
+
   #email {
     width: 100%;
     height: 100%;
   }
-} 
+}
