@@ -264,7 +264,7 @@ label {
   width: 100%;
   padding: 1rem;
   font-size: 18px;
-  background-color: #d3d3d3; /* Light gray button */
+  background-color: #4CAF50; /* Green button */
   color: white;
   border: none;
   border-radius: 4px;
@@ -273,7 +273,7 @@ label {
 }
 
 #submit:hover {
-   background-color: #bcbcbc; /* Slightly darker gray on hover */
+   background-color: #45a049; /* Slightly darker green on hover */
   }
 
 /* ===== STATE STYLES ======= */
